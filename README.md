@@ -35,16 +35,5 @@ python main.py
 3. **Entrenamiento**: Se entrena el modelo usando `train_model()` desde `train.py`.
 4. **Evaluación**: Se evalúa el modelo con `evaluate_model()` desde `evaluate.py`.
 
-## 🤝 Contribuciones
-Si deseas contribuir al proyecto:
-1. Haz un *fork* del repositorio.
-2. Crea una nueva rama (`git checkout -b feature-nueva-funcionalidad`).
-3. Realiza los cambios y confirma los commits (`git commit -m 'Agregada nueva funcionalidad'`).
-4. Envía un *pull request*.
 
-## 📜 Licencia
-Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
-
-## ✉️ Contacto
-Luis Daniel Quintero Gallegos
 
